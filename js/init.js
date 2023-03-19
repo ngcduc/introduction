@@ -94,7 +94,6 @@
             nav.addClass('opaque').fadeIn('fast');
          }
       }
-
 	});
 
 
